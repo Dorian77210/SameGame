@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="907.2px" height="623.7px" viewBox="0 0 907.2 623.7" enable-background="new 0 0 907.2 623.7" xml:space="preserve">
+<symbol  id="Blue" viewBox="-28.35 -28.35 56.7 56.7">
+	<path fill="#231F20" d="M0-25.18c-13.884,0-25.18,11.295-25.18,25.18S-13.884,25.18,0,25.18S25.18,13.884,25.18,0
+		S13.884-25.18,0-25.18z"/>
+	<polygon fill="none" points="28.35,-28.35 -28.35,-28.35 -28.35,28.35 28.35,28.35 	"/>
+	<path fill="#00AEEF" d="M22.68,0c0-12.526-10.154-22.68-22.68-22.68S-22.679-12.525-22.679,0S-12.525,22.68,0,22.68
+		S22.68,12.526,22.68,0z"/>
+	<path fill="#0089BC" d="M0,22.68c-0.537,0-1.068-0.025-1.596-0.062c10.381-0.643,18.606-9.24,18.606-19.782
+		c0-10.96-8.884-19.845-19.845-19.845c-10.544,0-19.144,8.23-19.783,18.613C-22.654,1.073-22.679,0.54-22.679,0
+		c0-12.526,10.154-22.68,22.68-22.68S22.68-12.526,22.68,0S12.526,22.68,0,22.68z"/>
+	<path fill="#93DAF4" d="M-6.152,16.527c1.66-1.661,0.763-5.251-2.005-8.019s-6.358-3.666-8.019-2.005s-0.763,5.251,2.005,8.019
+		S-7.813,18.188-6.152,16.527z"/>
+</symbol>
+<symbol  id="Green" viewBox="-28.35 -28.35 56.7 56.7">
+	<path fill="#231F20" d="M0-28.015c-0.432,0-0.863,0.112-1.25,0.335l-22.097,12.757c-0.773,0.446-1.25,1.272-1.25,2.165v25.517
+		c0,0.893,0.477,1.719,1.25,2.165L-1.25,27.68c0.773,0.446,1.727,0.446,2.5,0l22.097-12.757c0.773-0.446,1.25-1.272,1.25-2.165
+		v-25.517c0-0.893-0.477-1.719-1.25-2.165L1.25-27.68C0.863-27.903,0.432-28.015,0-28.015z"/>
+	<polygon fill="none" points="28.35,-28.35 -28.35,-28.35 -28.35,28.35 28.35,28.35 	"/>
+	<polygon fill="#00F376" points="0,-25.515 -22.097,-12.758 -22.097,12.758 0,25.515 22.097,12.758 22.097,-12.758 	"/>
+	<polygon fill="#00A651" points="0,-25.515 -22.097,12.758 22.097,12.758 	"/>
+	<polygon fill="#007338" points="22.097,12.758 22.097,-12.758 0,-25.515 	"/>
+</symbol>
+<symbol  id="Red" viewBox="-28.35 -28.35 56.699 56.699">
+	<path fill="#231F20" d="M0-28.016c-0.432,0-0.863,0.112-1.25,0.335l-22.097,12.758c-0.773,0.447-1.25,1.272-1.25,2.165v25.516
+		c0,0.893,0.477,1.718,1.25,2.165L-1.25,27.681c0.773,0.446,1.727,0.446,2.5,0l22.097-12.758c0.773-0.447,1.25-1.272,1.25-2.165
+		v-25.516c0-0.893-0.477-1.718-1.25-2.165L1.25-27.681C0.863-27.904,0.432-28.016,0-28.016z"/>
+	<polygon fill="none" points="28.35,-28.35 -28.35,-28.35 -28.35,28.35 28.35,28.35 	"/>
+	<path fill="#ED1C24" d="M0-25.516l-22.097,12.758v25.516L0,25.515l22.097-12.758v-25.516L0-25.516z"/>
+	<polygon fill="#F0646A" points="-22.097,12.758 0,25.516 22.097,12.758 0,0 	"/>
+	<polygon fill="#BA161C" points="22.097,12.758 22.097,-12.758 0,-25.516 0,0 	"/>
+</symbol>
+<use xlink:href="#Green"  width="56.7" height="56.7" id="XMLID_3_" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 56.6997 170.0996)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" id="XMLID_1_" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 56.6997 56.6997)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 226.7998 56.7002)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 226.7998 170.0991)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 283.4995 56.7002)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" id="XMLID_2_" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 56.6992 113.3999)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 56.6997 226.7993)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 56.3496 283.3496)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 56.6997 340.2002)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 56.6997 396.8994)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 56.6997 453.5996)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 56.6997 510.2988)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 56.6997 566.999)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 113.3994 56.6997)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 113.3994 113.3994)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 170.0996 113.3994)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 170.0996 56.6997)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 226.7998 113.3999)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 283.4995 170.0996)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 226.7998 226.7998)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 226.7998 283.4995)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 226.7998 340.1992)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 283.4995 113.3994)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 340.2002 56.6997)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 453.5986 56.6997)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 453.5986 113.3999)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 510.2998 113.3994)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 510.2998 226.7998)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 567 226.7993)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 737.0996 113.3994)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 850.5 56.6997)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 453.5986 170.0996)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 113.3994 170.0996)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 113.3994 510.2988)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 226.7993 453.5996)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 283.4995 453.5996)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 283.4995 510.2988)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 340.1992 510.2988)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 453.5996 453.5996)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 510.2988 453.5996)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 510.2988 510.2998)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 510.2998 567)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 567 566.999)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 737.0996 566.999)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 793.7988 510.2998)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 850.5 510.2988)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 850.5 453.5996)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 793.7998 453.5996)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 737.0986 453.5996)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 850.499 396.9004)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 680.4004 396.9004)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 680.4004 340.1992)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 737.0996 340.1992)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 850.499 283.4995)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 850.5 226.7993)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 737.0996 226.7998)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 566.999 396.9004)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 567 340.2002)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 510.2988 340.1992)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 113.3989 226.7993)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 113.3994 283.5)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 113.3989 340.1992)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 113.3999 396.9004)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 113.3994 453.5996)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 113.3994 566.999)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 226.7993 567)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 283.4995 566.999)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 340.1992 567)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 396.8994 567)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 396.8994 510.2998)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 396.8994 453.6006)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 396.8994 396.9004)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 453.5986 340.2002)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 510.2988 396.9004)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 567 453.5996)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 623.7002 453.5996)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 623.6992 340.2002)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 566.999 283.499)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 623.6992 226.7998)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 623.7002 170.0996)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 566.999 113.3994)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 510.2988 56.6997)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 567 56.6997)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 623.6992 56.6997)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 680.3994 56.6997)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 793.7988 56.6997)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 850.5 113.3999)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 793.7988 283.4995)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 737.0996 510.2988)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 850.5 567)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 850.5 340.1992)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 340.1992 396.9004)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 340.2002 453.5996)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 283.499 396.9004)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 283.499 340.1992)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 340.1992 340.1992)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 283.5 283.4995)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 283.499 226.7993)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 340.2002 283.4995)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 396.8994 283.4995)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 396.8994 226.7998)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 453.5986 226.7993)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 396.8994 170.0996)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 396.8994 113.3994)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 170.0996 567)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 170.0996 510.2988)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 170.0996 453.5996)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 226.7998 396.9004)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 396.9004 340.2002)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 453.5996 283.5)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 453.5996 396.9004)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 453.5996 510.2988)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 567 510.2998)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 623.7002 510.2988)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 623.6992 567)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 680.3994 567)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 680.3994 510.2998)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 680.3994 453.5996)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 793.7998 567)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 737.1006 396.9004)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 793.7998 396.9004)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 793.7988 340.2002)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 623.6992 396.9004)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 623.7002 283.499)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 680.4004 283.5)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 793.7998 226.7998)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 850.5 170.1001)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 793.7988 170.0991)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 793.7998 113.3994)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 737.1006 56.6992)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 737.0986 170.0991)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 680.4004 226.7993)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 680.3994 170.0991)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 680.3994 113.3999)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 623.6992 113.3999)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 566.999 170.0991)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 510.2988 170.0991)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 737.0996 283.499)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 453.5996 567)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 510.2988 283.5)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 340.1992 226.7998)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 340.1992 170.1001)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 340.1992 113.3994)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 396.9004 56.6992)" overflow="visible"/>
+<use xlink:href="#Red"  width="56.699" height="56.699" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 226.7998 510.2988)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 170.0996 396.8994)" overflow="visible"/>
+<use xlink:href="#Green"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 170.0996 340.1992)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 170.0991 283.4995)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 170.0991 226.7998)" overflow="visible"/>
+<use xlink:href="#Blue"  width="56.7" height="56.7" x="-28.35" y="-28.35" transform="matrix(1 0 0 -1 170.0991 170.0996)" overflow="visible"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
